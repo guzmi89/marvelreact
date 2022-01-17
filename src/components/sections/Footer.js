@@ -1,4 +1,3 @@
-import { NavLink} from "react-router-dom";
 const Footer = () => (
     <div className="flex flex-wrap justify-center mt-4 bg-slate-400 dark:bg-zinc-900 p-8">
         <div className="font-marvel flex flex-col w-96 items-center text-white">
