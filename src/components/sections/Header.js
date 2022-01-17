@@ -1,5 +1,5 @@
 import { NavLink } from "react-router-dom";
-import { useState, useEffect, useRef } from "react"
+import { useRef } from "react"
 import useDarkMode from "../../hooks/useDarkMode.js"
 const Header = () => {
     const [colorTheme, setTheme] = useDarkMode()
